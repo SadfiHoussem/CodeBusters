@@ -9,4 +9,5 @@ Code in action for Gold league :
 Demo 1 : https://www.codingame.com/replay/113551845
 
 Demo 2 : https://www.codingame.com/replay/113599900
+
 Demo 3 : https://www.codingame.com/replay/113591573
